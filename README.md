@@ -2,8 +2,10 @@
 https://app.patika.dev/bengisuu 
 
 Proje 3
+
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
 Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
+
 Root 7’dir, root’un sağında 0,1,2,3,4,5,6 bulunur. Solunda 8,9 bulunur. 
 -                                         7
 -                                     /       \
